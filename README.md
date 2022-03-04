@@ -32,5 +32,5 @@
 </details>
 
 [github]: https://github.com/EnesGelmez
-[linkedin]: https://www.linkedin.com/in/enes-gelmez-514397197/
+[linkedin]: https://www.linkedin.com/in/enesgelmez/
 [instagram]: https://www.instagram.com/enesgelmez
